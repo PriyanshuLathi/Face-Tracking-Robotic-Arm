@@ -32,6 +32,5 @@ while (q_key_pressed == False):
             q_key_pressed = True
             break
 
-
 video_cam.release()
 cv2.destroyAllWindows()

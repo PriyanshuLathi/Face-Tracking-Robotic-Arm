@@ -3,12 +3,16 @@
 ## Introduction:
 This project is a face tracking robotic arm developed using OpenCV, Arduino, and PyFirmata. The purpose of this project is to demonstrate how computer vision techniques can be integrated with robotics to create an interactive system capable of tracking and following human faces in real-time.
 
+<p align="center"> <img src="https://github.com/user-attachments/assets/7222d068-24dc-411c-ab5f-a31fed609d27" alt="Face Tracking Robotic Arm" width = 250 /> </p>
+
 ## Features:
 - Real-time face detection and tracking using OpenCV.
 - Control of a robotic arm using Arduino and PyFirmata.
 - Smooth and precise movement of the robotic arm to follow detected faces.
 - Adjustable parameters for sensitivity and speed of the robotic arm movement.
 - Simple and intuitive interface.
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/056306d6-112d-4fd3-b691-50072130e7c5" alt="Face Tracking Robotic Arm" width = 500 /> </p>
 
 ## Requirements:
 - Python 3.2
